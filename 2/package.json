@@ -1,0 +1,11 @@
+{
+  "name": "Problem2",
+  "version": "1.0.0",
+  "description": "Project Euler problem 2",
+  "main": "aMilliionEvenFibs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "surajx",
+  "license": "ISC"
+}
