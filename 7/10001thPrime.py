@@ -1,5 +1,3 @@
-import math
-
 def is_prime(n):
   if n <= 3:
     return n >= 2
